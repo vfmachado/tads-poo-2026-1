@@ -156,8 +156,6 @@ public class Main {
 
 # Exercício 5 — Modelagem mais real: Pedido e Item (coesão entre classes)
 
-Aqui os alunos implementam **duas classes**, mas o `Main` dá o norte e obriga separação de responsabilidades.
-
 ## O que o aluno deve implementar
 
 * `ItemPedido` (representa item: nome, precoUnitario, quantidade)
@@ -194,5 +192,6 @@ public class Main {
     }
 }
 ```
+
 
 
